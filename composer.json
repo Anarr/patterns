@@ -1,0 +1,15 @@
+{
+    "name": "yusifli/patterns",
+    "type": "library",
+    "description": "Design patterns",
+    "keywords": ["designpatterns","php7"],
+    "homepage": "https://yusifli.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anar Rzayev",
+            "email": "anar.rzayev94@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}
